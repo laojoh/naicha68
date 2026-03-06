@@ -9,6 +9,10 @@ This keyboard uses the ZMK firmware.
 
 [Check out the CAD!](https://cad.onshape.com/documents/295e0b7142940424b9052f56/w/e19706a5ab64c98e31915beb/e/17c8e54cfbba57455b125845)
 
+This is the custom layout we chose for the keyboard (made with [keyboard-layout-editor.com](https://www.keyboard-layout-editor.com/#/)):
+
+![Keyboard Layout](/assets/layout.png)
+
 ## PCB Renders
 ![Front side](/assets/front.png)
 ![Back side](/assets/back.png)
