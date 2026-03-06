@@ -5,9 +5,9 @@ A keyboard dreamt up and put into solid design by @deltea and @laojoh.
 We are both into keyboards, so we wanted to make a keyboard that satisfies both of our wants. Also, keyboards are so cool!
 To use our project, you can connect the keyboard through bluetooth to your computer, and type away!
 
-This keyboard uses the ZMK firmware.
+[Check out the Onshape CAD here!](https://cad.onshape.com/documents/295e0b7142940424b9052f56/w/e19706a5ab64c98e31915beb/e/17c8e54cfbba57455b125845)
 
-[Check out the CAD!](https://cad.onshape.com/documents/295e0b7142940424b9052f56/w/e19706a5ab64c98e31915beb/e/17c8e54cfbba57455b125845)
+This keyboard uses the ZMK firmware.
 
 This is the custom layout we chose for the keyboard (made with [keyboard-layout-editor.com](https://www.keyboard-layout-editor.com/#/)):
 
